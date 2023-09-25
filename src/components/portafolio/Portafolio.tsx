@@ -44,7 +44,7 @@ const portfolioItems: PortfolioItem[] = [
   },
   {
     title: "Hotel Website",
-    description: "A hotel company website offering global transportation, warehousing, and customs services.",
+    description: "A Hotel Company website offering global transportation, warehousing, and customs services.",
     imageUrl: "/portfolio/gatsby_web.PNG",
     externalLink: "https://youthful-varahamihira-df4b60.netlify.app/",
   },
