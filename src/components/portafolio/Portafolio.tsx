@@ -39,13 +39,13 @@ const portfolioItems: PortfolioItem[] = [
   {
     title: "Local News Website",
     description: "A local news website offering global transportation, warehousing, and customs services ",
-    imageUrl: "/portfolio/bca_pe_web.png",
+    imageUrl: "/portfolio/bca_pe_web.PNG",
     externalLink: "https://barranca.pe/",
   },
   {
     title: "Hotel Website",
     description: "A hotel company website offering global transportation, warehousing, and customs services.",
-    imageUrl: "/portfolio/gatsby_web.png",
+    imageUrl: "/portfolio/gatsby_web.PNG",
     externalLink: "https://youthful-varahamihira-df4b60.netlify.app/",
   },
   // ... Agrega más elementos según lo necesites
